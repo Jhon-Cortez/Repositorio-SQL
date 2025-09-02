@@ -93,6 +93,5 @@ BEGIN
 	EXEC (@sql)
 END;
 GO
-
--- Ejecutar
 EXEC InsertarDatos;
+
